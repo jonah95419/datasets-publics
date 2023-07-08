@@ -2,51 +2,51 @@
   {
     "alumno":"Jhonatan",
     "nota":9.09,
-    "ranking":10
+    "ranking":900
   },
   {
     "alumno":"Juan",
     "nota":7.7,
-    "ranking":9
+    "ranking":800
   },
   {
     "alumno":"Pedro",
     "nota":3.18,
-    "ranking":8
+    "ranking":700
   },
   {
     "alumno":"Lizeth",
     "nota":6.3,
-    "ranking":7
+    "ranking":600
   },
   {
     "alumno":"Cristian",
     "nota":8.75,
-    "ranking":6
+    "ranking":500
   },
   {
     "alumno":"David",
     "nota":9.09,
-    "ranking":5
+    "ranking":600
   },
   {
     "alumno":"Roger",
     "nota":2.09,
-    "ranking":4
+    "ranking":400
   },
   {
     "alumno":"Paul",
     "nota":2.09,
-    "ranking":3
+    "ranking":300
   },
   {
     "alumno":"Lilian",
     "nota":1.59,
-    "ranking":2
+    "ranking":200
   },
   {
     "alumno":"Nayla",
     "nota":2.09,
-    "ranking":1
+    "ranking":100
   }
 ]
